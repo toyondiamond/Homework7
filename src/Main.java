@@ -73,7 +73,7 @@ public class Main {
         }
         //task3-2
         int start1 = 15000;
-        for (i =1;i <9*12;i+=6 ){
+        for (i =1; i <9*12; i+=6 ){
             start1*=1+0.07*6;
             System.out.println("Месяц " + i +" составляет " + start1);
         }
